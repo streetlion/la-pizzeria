@@ -31,7 +31,7 @@
          ?>
       </div> <!--.redes-sociales-->
       <div class="Dirección">
-        <p>Dirección: 536 Comas Lima Perú</p>
+        <p>Dirección: 537 Comas Lima Perú</p>
         <p>Teléfono:(01)-859 4895</p>
 
       </div>
